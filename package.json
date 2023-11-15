@@ -1,0 +1,19 @@
+{
+  "name": "basic-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyber-yakuza-team/basic-npm.git"
+  },
+  "author": "Nimesh Official",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyber-yakuza-team/basic-npm/issues"
+  },
+  "homepage": "https://github.com/cyber-yakuza-team/basic-npm#readme"
+}
